@@ -1,0 +1,19 @@
+.title {
+  flex-grow: 1;
+  justify-content: space-between;
+}
+.navBar {
+  background-color: rgba(0, 0, 0, 0) !important;
+  color: black !important;
+}
+.header-1 {
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  gap: 20px;
+  margin-right: 10px;
+}
+.header-2 {
+  width: 30%;
+  display: flex;
+}
